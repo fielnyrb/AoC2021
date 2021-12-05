@@ -6,7 +6,7 @@ namespace AoC2021
     {
         static void Main(string[] args)
         {
-            Day4 d4 = new Day4();
+            Day5 d5 = new Day5();
         }
     }
 }
